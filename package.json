@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava --verbose"
   },
   "author": "Joacim Löwgren <joacim.lowgren@gmail.com>",
   "license": "ISC",
